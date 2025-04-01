@@ -1,4 +1,4 @@
-const API_URL = "https://4dfc-220-123-76-186.ngrok-free.app"; // 실제 PC의 공개 IP 또는 ngrok URL 사용
+const API_URL = "https://ba04-220-123-76-186.ngrok-free.app"; // 실제 PC의 공개 IP 또는 ngrok URL 사용
 
 // 후보 목록 가져오기
 async function loadCandidates() {
